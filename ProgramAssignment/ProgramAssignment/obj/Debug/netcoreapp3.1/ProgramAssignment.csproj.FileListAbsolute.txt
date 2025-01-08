@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.exe
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.deps.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\bin\Debug\netcoreapp3.1\ProgramAssignment.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.sourcelink.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ProgramAssignment\ProgramAssignment\obj\Debug\netcoreapp3.1\ProgramAssignment.genruntimeconfig.cache
