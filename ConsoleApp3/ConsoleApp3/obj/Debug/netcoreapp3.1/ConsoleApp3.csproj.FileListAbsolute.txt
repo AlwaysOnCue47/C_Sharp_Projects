@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.sourcelink.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
