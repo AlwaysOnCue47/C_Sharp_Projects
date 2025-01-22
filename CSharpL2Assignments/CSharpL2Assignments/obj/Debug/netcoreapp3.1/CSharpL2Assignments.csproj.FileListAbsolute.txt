@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.exe
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.deps.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\bin\Debug\netcoreapp3.1\CSharpL2Assignments.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.sourcelink.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\CSharpL2Assignments\CSharpL2Assignments\obj\Debug\netcoreapp3.1\CSharpL2Assignments.genruntimeconfig.cache
