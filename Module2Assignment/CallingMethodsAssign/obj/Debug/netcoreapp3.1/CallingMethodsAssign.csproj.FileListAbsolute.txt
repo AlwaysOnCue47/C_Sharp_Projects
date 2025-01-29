@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.exe
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.deps.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\bin\Debug\netcoreapp3.1\CallingMethodsAssign.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.sourcelink.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\Module2Assignment\CallingMethodsAssign\obj\Debug\netcoreapp3.1\CallingMethodsAssign.genruntimeconfig.cache
