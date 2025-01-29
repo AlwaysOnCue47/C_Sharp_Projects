@@ -6,21 +6,21 @@ namespace CallingMethodsAssign
 {
     public class Operation1
     {
-        public static decimal Kilogram(decimal lbs )
+        public static double Kilogram(double  lbs )
         {
-            decimal inKg = lbs * 0.453592m;
+            double inKg = lbs * 0.453592;
             return inKg;
         }
 
-        public static decimal Ounce(decimal lbs)
+        public static double Ounce(double lbs)
         {
-            decimal inOz = lbs * 16m;
+            double inOz = lbs * 16;
             return inOz;
         }
 
-        public static decimal Grams(decimal lbs)
+        public static double Grams(double lbs)
         {
-            decimal inGram = lbs * 453.592m;
+            double inGram = lbs * 453.592;
             return inGram;
         }
 
