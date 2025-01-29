@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\methodclassassignment\\baskit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|solutionrelative:methodclassassignment\\baskit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\methodclassassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|solutionrelative:methodclassassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\methodclassassignment\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF15B3F0-3CCC-47B0-ACD5-21B4FCA450D0}|MethodClassAssignment\\MethodClassAssignment.csproj|solutionrelative:methodclassassignment\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\mod2assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|solutionrelative:mod2assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332A058-E801-47E5-8E8B-9659FF4392E6}|CallingMethodsAssign\\CallingMethodsAssign.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\callingmethodsassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332A058-E801-47E5-8E8B-9659FF4392E6}|CallingMethodsAssign\\CallingMethodsAssign.csproj|solutionrelative:callingmethodsassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E332A058-E801-47E5-8E8B-9659FF4392E6}|CallingMethodsAssign\\CallingMethodsAssign.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\callingmethodsassign\\operation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\mod2assignment3\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|solutionrelative:mod2assignment3\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\mod2assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCA6A50B-8798-4AB2-BD74-0845C237AA8F}|Mod2Assignment3\\Mod2Assignment3.csproj|solutionrelative:mod2assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E332A058-E801-47E5-8E8B-9659FF4392E6}|CallingMethodsAssign\\CallingMethodsAssign.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\module2assignment\\callingmethodsassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E332A058-E801-47E5-8E8B-9659FF4392E6}|CallingMethodsAssign\\CallingMethodsAssign.csproj|solutionrelative:callingmethodsassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Baskit.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Baskit.cs",
-              "RelativeDocumentMoniker": "MethodClassAssignment\\Baskit.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Baskit.cs",
-              "RelativeToolTip": "MethodClassAssignment\\Baskit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "MethodClassAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Program.cs",
+              "RelativeToolTip": "MethodClassAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:59:32.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Basket.cs",
+              "RelativeDocumentMoniker": "MethodClassAssignment\\Basket.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Basket.cs",
+              "RelativeToolTip": "MethodClassAssignment\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T19:52:04.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Operation1.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\CallingMethodsAssign\\Operation1.cs",
               "RelativeDocumentMoniker": "CallingMethodsAssign\\Operation1.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\CallingMethodsAssign\\Program.cs",
               "RelativeDocumentMoniker": "CallingMethodsAssign\\Program.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\Mod2Assignment3\\Deck.cs",
               "RelativeDocumentMoniker": "Mod2Assignment3\\Deck.cs",
@@ -85,12 +102,11 @@
               "RelativeToolTip": "Mod2Assignment3\\Deck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:22:59.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:22:59.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cards.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\Mod2Assignment3\\Cards.cs",
               "RelativeDocumentMoniker": "Mod2Assignment3\\Cards.cs",
@@ -98,12 +114,11 @@
               "RelativeToolTip": "Mod2Assignment3\\Cards.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:09:30.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:09:30.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\Mod2Assignment3\\Program.cs",
               "RelativeDocumentMoniker": "Mod2Assignment3\\Program.cs",
