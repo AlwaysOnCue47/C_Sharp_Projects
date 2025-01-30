@@ -46,9 +46,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Program.cs",
               "RelativeDocumentMoniker": "MethodClassAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Program.cs",
-              "RelativeToolTip": "MethodClassAssignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\Module2Assignment\\MethodClassAssignment\\Program.cs*",
+              "RelativeToolTip": "MethodClassAssignment\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T20:59:32.297Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "CallingMethodsAssign\\Operation1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:22:50.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T20:22:50.61Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "CallingMethodsAssign\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:22:11.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T20:22:11.77Z"
             },
             {
               "$type": "Document",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "Mod2Assignment3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:06:47.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:06:47.738Z"
             }
           ]
         }
