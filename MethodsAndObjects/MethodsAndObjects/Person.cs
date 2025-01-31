@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MethodsAndObjects
 {
-    public class Person // Defining a new class called Person. Public so it's accessable throughout this namespace
+    public abstract class Person // Defining a new abstract class called Person. Public so it's accessable throughout this namespace
     {
         public string FirstName { get; set; } // this class has two properties. String data type variables called FirstName and LastName.
         public string LastName { get; set; } // these values can be both "set" and "get" (retrieved) when instructed to
