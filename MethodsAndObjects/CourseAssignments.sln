@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndObjects", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsAssignment", "OperatorsAssignment\OperatorsAssignment.csproj", "{999716BD-00DA-458E-88FE-EDC8F7271C49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnumAssignment", "ParsingEnumAssignment\ParsingEnumAssignment.csproj", "{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{999716BD-00DA-458E-88FE-EDC8F7271C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999716BD-00DA-458E-88FE-EDC8F7271C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999716BD-00DA-458E-88FE-EDC8F7271C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\methodsandobjects\\operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}|ParsingEnumAssignment\\ParsingEnumAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\methodsandobjects\\parsingenumassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0EEF42-112E-44F6-8AF6-FA2AE62711E3}|ParsingEnumAssignment\\ParsingEnumAssignment.csproj|solutionrelative:parsingenumassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\methodsandobjects\\operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\methodsandobjects\\operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999716BD-00DA-458E-88FE-EDC8F7271C49}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\ParsingEnumAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ParsingEnumAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\ParsingEnumAssignment\\Program.cs",
+              "RelativeToolTip": "ParsingEnumAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:22:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\OperatorsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\OperatorsAssignment\\Program.cs",
+              "RelativeToolTip": "OperatorsAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:08:55.917Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,22 +58,9 @@
               "RelativeDocumentMoniker": "OperatorsAssignment\\Employee.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\OperatorsAssignment\\Employee.cs",
               "RelativeToolTip": "OperatorsAssignment\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T18:52:21.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\OperatorsAssignment\\Program.cs",
-              "RelativeDocumentMoniker": "OperatorsAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\MethodsAndObjects\\OperatorsAssignment\\Program.cs",
-              "RelativeToolTip": "OperatorsAssignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T18:47:52.842Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.exe
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.deps.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.sourcelink.json
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\MethodsAndObjects\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.genruntimeconfig.cache
