@@ -4,6 +4,16 @@ namespace ParsingEnumAssignment
 {
     internal class Program
     {
+        enum DaysOfTheWeek
+        {
+            Sunday,
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday
+        }
         static void Main(string[] args)
         {
             bool validInput = false;
@@ -14,7 +24,7 @@ namespace ParsingEnumAssignment
                 {
                     Console.WriteLine("Enter a day of the week:");
                     string userInput = Console.ReadLine();
-                    DayOfWeek dayValue = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), userInput);
+                    DaysOfTheWeek dayValue = (DaysOfTheWeek)Enum.Parse(typeof(DayOfWeek), userInput);
                     Console.WriteLine($"Have a good: {dayValue}!");
                     validInput = true;
                 }
@@ -23,16 +33,6 @@ namespace ParsingEnumAssignment
                     Console.WriteLine("Type the name exactly correct - first letter is capital.");
                 }
             }
-        }
-
-        enum DaysOfTheWeek {
-            Sunday = 1,
-            Monday = 2,
-            Tuesday = 3,
-            Wednesday = 4,
-            Thursday = 5,
-            Friday = 6,
-            Saturday = 7
-        }
+        }     
     }
 }
