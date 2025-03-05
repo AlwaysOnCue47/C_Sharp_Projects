@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsurance\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsurance\\carinsurance\\models\\insuranceentities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuranceentities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsurance\\carinsurance\\models\\insuranceentities.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuranceentities.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsurance\\carinsurance\\models\\insuranceentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DE18E5F5-11B4-4707-85BF-2669CE6C1D51}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuranceentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:06:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceEntities.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.Context.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\InsuranceEntities.Context.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.Context.cs",
+              "RelativeToolTip": "CarInsurance\\Models\\InsuranceEntities.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:50:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceEntities.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.Context.tt",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\InsuranceEntities.Context.tt",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.Context.tt",
+              "RelativeToolTip": "CarInsurance\\Models\\InsuranceEntities.Context.tt",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-04T19:49:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceEntities.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.edmx",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\InsuranceEntities.edmx",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.edmx [Diagram1]",
+              "RelativeToolTip": "CarInsurance\\Models\\InsuranceEntities.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-04T19:42:04.811Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
