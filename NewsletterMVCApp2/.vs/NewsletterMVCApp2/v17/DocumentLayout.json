@@ -3,20 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ASUSLAPTOP_SQLEXPRESS/Newsletter/True/SqlTable/dbo.SignUps.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\viewmodel\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\viewmodel\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\newslettermvcapp2\\newslettermvcapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF52CE4-AF3F-48E3-9A1B-ABD97F8D8349}|NewsletterMVCApp2\\NewsletterMVCApp2.csproj|solutionrelative:newslettermvcapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +33,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SignUpVm.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
-              "RelativeDocumentMoniker": "NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
-              "RelativeToolTip": "NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:01:09.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Views\\Home\\Admin.cshtml",
-              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Views\\Home\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Views\\Home\\Admin.cshtml",
-              "RelativeToolTip": "NewsletterMVCApp2\\Views\\Home\\Admin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T02:05:49.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "NewsletterMVCApp2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwDgAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:46:37.63Z",
+              "Title": "dbo.SignUps [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ASUSLAPTOP_SQLEXPRESS/Newsletter/True/SqlTable/dbo.SignUps.sql",
+              "ToolTip": "dbo.SignUps [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-06T18:46:25.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NewsletterSignUp.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Models\\NewsletterSignUp.cs",
-              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Models\\NewsletterSignUp.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Models\\NewsletterSignUp.cs",
-              "RelativeToolTip": "NewsletterMVCApp2\\Models\\NewsletterSignUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Title": "SignUpVm.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
+              "RelativeDocumentMoniker": "NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
+              "RelativeToolTip": "NewsletterMVCApp2\\ViewModel\\SignUpVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:32:56.251Z",
+              "WhenOpened": "2025-03-06T18:12:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "NewsletterMVCApp2\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:59:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NewsletterMVCApp2\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:57:39.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewsletterMVCApp2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:30:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "NewsletterMVCApp2\\Models\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\NewsletterMVCApp2\\NewsletterMVCApp2\\Models\\SignUp.cs",
+              "RelativeToolTip": "NewsletterMVCApp2\\Models\\SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:27:35.034Z",
               "EditorCaption": ""
             }
           ]

@@ -77,3 +77,7 @@ C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMV
 C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\obj\Debug\Newslett.69FC7832.Up2Date
 C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\obj\Debug\NewsletterMVCApp2.dll
 C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\obj\Debug\NewsletterMVCApp2.pdb
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\bin\EntityFramework.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\bin\EntityFramework.xml
+C:\Users\Martin\Documents\GitHub\C_Sharp_Projects\NewsletterMVCApp2\NewsletterMVCApp2\bin\EntityFramework.SqlServer.xml
