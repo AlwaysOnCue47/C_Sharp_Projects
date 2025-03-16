@@ -4,9 +4,20 @@ using System.Text;
 
 namespace TwentyOne
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
-        public void Play()
+        public override void Play()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void ListPlayer()
+        {
+            Console.WriteLine("21 Players:");
+            base.ListPlayer();
+        }
+
+        public void WalkAway(Player player)
         {
             throw new NotImplementedException();
         }
