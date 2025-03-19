@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\efcodefirstproject\\efcodefirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|solutionrelative:efcodefirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\efcodefirstproject\\efcodefirstproject\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|solutionrelative:efcodefirstproject\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\efcodefirstproject\\efcodefirstproject\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|solutionrelative:efcodefirstproject\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\efcodefirstproject\\efcodefirstproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B7347-02B3-4BFA-BB92-1C31EEC37B3C}|EFCodeFirstProject\\EFCodeFirstProject.csproj|solutionrelative:efcodefirstproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstProject\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\SchoolContext.cs",
+              "RelativeToolTip": "EFCodeFirstProject\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:21:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Grade.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstProject\\Grade.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Grade.cs",
+              "RelativeToolTip": "EFCodeFirstProject\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:01:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Student.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstProject\\Student.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Student.cs",
+              "RelativeToolTip": "EFCodeFirstProject\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:00:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\EFCodeFirstProject\\EFCodeFirstProject\\Program.cs",
+              "RelativeToolTip": "EFCodeFirstProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:41:45.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
