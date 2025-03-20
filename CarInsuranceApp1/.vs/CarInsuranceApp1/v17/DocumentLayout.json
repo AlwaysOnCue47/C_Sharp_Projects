@@ -3,20 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\models\\insuranceentities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\models\\insuranceentities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\views\\table1insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\views\\table1insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\carinsuranceapp1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|c:\\users\\martin\\documents\\github\\c_sharp_projects\\carinsuranceapp1\\carinsuranceapp1\\models\\insureepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\models\\insureepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\carinsuranceapp1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CBA0E26-C53F-48ED-8955-5A516EDFCF51}|CarInsuranceApp1\\CarInsuranceApp1.csproj|solutionrelative:carinsuranceapp1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MARTIN_DOCUMENTS_GITHUB_C_SHARP_PROJECTS_CARINSURANCEAPP1_CARINSURANCEAPP1_APP_DATA_INSURANCEAPP1.MDF/True/SqlTable/dbo.Table1Insurees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,32 +42,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarInsuranceApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarInsuranceApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:22:05.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Table1Insuree\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInsuranceApp1\\Views\\Table1Insuree\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Table1Insuree\\Index.cshtml",
+              "RelativeToolTip": "CarInsuranceApp1\\Views\\Table1Insuree\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T17:21:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarInsuranceApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarInsuranceApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T17:19:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Table1Insurees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MARTIN_DOCUMENTS_GITHUB_C_SHARP_PROJECTS_CARINSURANCEAPP1_CARINSURANCEAPP1_APP_DATA_INSURANCEAPP1.MDF/True/SqlTable/dbo.Table1Insurees.sql",
+              "ToolTip": "dbo.Table1Insurees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-17T17:18:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "CarInsuranceApp1\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "CarInsuranceApp1\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-16T21:32:31.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InsuranceEntities.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Models\\InsuranceEntities.Context.cs",
-              "RelativeDocumentMoniker": "CarInsuranceApp1\\Models\\InsuranceEntities.Context.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Models\\InsuranceEntities.Context.cs",
-              "RelativeToolTip": "CarInsuranceApp1\\Models\\InsuranceEntities.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:24:02.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "CarInsuranceApp1\\Controllers\\AdminController.cs",
@@ -69,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InsureePartial.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Models\\InsureePartial.cs",
               "RelativeDocumentMoniker": "CarInsuranceApp1\\Models\\InsureePartial.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\C_Sharp_Projects\\CarInsuranceApp1\\CarInsuranceApp1\\Models\\InsureePartial.cs",
               "RelativeToolTip": "CarInsuranceApp1\\Models\\InsureePartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T20:47:11.718Z",
               "EditorCaption": ""
