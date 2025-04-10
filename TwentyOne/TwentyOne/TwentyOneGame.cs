@@ -32,14 +32,14 @@ namespace TwentyOne
             }
             for (int i = 0; i < 2; i++)
             {
-                Console.WriteLine("DEaling...");
+                Console.WriteLine("Dealing...");
                 foreach (Player player in Players)
                 {
                     Console.WriteLine("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
                     if (i == 1)
                     {
-
+                        bool BlackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
                     }
                 }
             }
