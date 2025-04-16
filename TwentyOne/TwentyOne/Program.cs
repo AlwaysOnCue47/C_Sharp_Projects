@@ -11,7 +11,7 @@ namespace TwentyOne
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money would you like to play with?");
             int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hell, {0}. Would you like to play Twenty One?", playerName);
+            Console.WriteLine("Hello, {0}. Would you like to play Twenty One?", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "y")
             {

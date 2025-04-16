@@ -19,6 +19,7 @@ namespace TwentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet");
 
             foreach (Player player in Players)
@@ -61,6 +62,7 @@ namespace TwentyOne
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -69,7 +71,7 @@ namespace TwentyOne
                 while (!player.Stay)
                 {
                     Console.WriteLine("Your cards are: ");
-                    foreach (Card card in Player.Hand)
+                    foreach (Card card in player.Hand)
                     {
                         Console.WriteLine("{0} ", card.ToString());
                     }
@@ -129,6 +131,35 @@ namespace TwentyOne
             foreach (Player player in Players)
             {
                 bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
+                if (playerWon == null)
+                {
+                    Console.WriteLine("Push! No one wins.");
+                    player.Balance += Bets[player];
+                    Bets.Remove(player);
+                }
+                else if (playerWon == true)
+                {
+                    Console.WriteLine("{0} Won! {1}", player.Name, Bets[player]);
+                    player.Balance += (Bets[player] * 2);
+                    Dealer.Balance -= Bets[player];
+                }
+                else
+                {
+                    Console.WriteLine("Dealer wins {0}", Bets[player]);
+                    Dealer.Balance += Bets[player];
+                }
+                Console.WriteLine("Play again?");
+                string answer = Console.ReadLine().ToLower();
+                if (answer == "yes" || answer == "y")
+                {
+                    player.isActivelyPlaying = true;
+                    return;
+                }
+                else
+                {
+                    player.isActivelyPlaying = false;
+                    return;
+                }
             }
         }
 
