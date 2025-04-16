@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace TwentyOne
@@ -40,8 +41,94 @@ namespace TwentyOne
                     if (i == 1)
                     {
                         bool BlackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
+                        if (BlackJack)
+                        {
+                            Console.WriteLine("BlackJack! {0} wins {1}", player.Name, Bets[player]);
+                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
+                            return;
+                        }
                     }
                 }
+                Console.Write("Dealer: ");
+                Dealer.Deal(Dealer.Hand);
+                if (i == 1)
+                {
+                    bool blackJack = TwentyOneRules.CheckForBlackJack(Dealer.Hand);
+                    if (blackJack)
+                    {
+                        Console.WriteLine("Dealer has BlackJack! Everyone loses!");
+                        foreach (KeyValuePair<Player, int> entry in Bets)
+                        {
+                            Dealer.Balance += entry.Value;
+                        }
+                    }
+                }
+            }
+            foreach (Player player in Players)
+            {
+                while (!player.Stay)
+                {
+                    Console.WriteLine("Your cards are: ");
+                    foreach (Card card in Player.Hand)
+                    {
+                        Console.WriteLine("{0} ", card.ToString());
+                    }
+                    Console.WriteLine("\n\nHit or Stay?");
+                    string answer = Console.ReadLine().ToLower();
+                    if (answer == "stay")
+                    {
+                        player.Stay = true;
+                        break;
+                    }
+                    else if (answer == "hit")
+                    {
+                        Dealer.Deal(player.Hand);
+                    }
+                    bool busted = TwentyOneRules.IsBusted(player.Hand);
+                    if (busted)
+                    {
+                        Dealer.Balance += Bets[player];
+                        Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}", player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("Do you want to play again?");
+                        answer = Console.ReadLine().ToLower();
+                        if (answer == "yes" || answer == "y")
+                        {
+                            player.isActivelyPlaying = true;
+                        }
+                        else
+                        {
+                            player.isActivelyPlaying = false;
+                        }
+                    }
+                }
+            }
+            Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
+            Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
+            while (!Dealer.Stay && !Dealer.isBusted)
+            {
+                Console.WriteLine("Dealer is hitting...");
+                Dealer.Deal(Dealer.Hand);
+                Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
+                Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
+            }
+            if (Dealer.Stay)
+            {
+                Console.WriteLine("Dealer is staying.");
+            }
+            if (Dealer.isBusted)
+            {
+                Console.WriteLine("Dealer Busts!");
+                foreach (KeyValuePair<Player, int> entry in Bets)
+                {
+                    Console.WriteLine("{0} won {1}!", entry.Key.Name, entry.Value);
+                    Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2);
+                    Dealer.Balance -= entry.Value;
+                }
+                return;
+            }
+            foreach (Player player in Players)
+            {
+                bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
             }
         }
 
